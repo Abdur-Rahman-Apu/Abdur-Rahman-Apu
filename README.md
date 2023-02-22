@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdur-rahman-apu" alt="abdur-rahman-apu" /></a> </p>
 
-- 🌱 I’m currently learning **Deep learning, Javascript, PHP, Pyspark.**
+- 🌱 I’m currently learning **Javascript, MERN**
 
-- 📫 How to reach me **abdur15-13025@diu.edu.bd**
+- 📫 How to reach me **abdur15-13025@diu.edu.bd or abdurrahmany418@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
