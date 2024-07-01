@@ -21,6 +21,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdur-rahman-apu&show_icons=true&locale=en&layout=compact" alt="abdur-rahman-apu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdur-rahman-apu&" alt="abdur-rahman-apu" /></p>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahman-Apu&langs_count=8&theme=default" alt=Abdur-Rahman-Apu />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdur-Rahman-Apu&show_icons=true&locale=en&theme=" alt="Abdur-Rahman-Apu" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdur-Rahman-Apu&theme=" alt="Abdur-Rahman-Apu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdur-rahman-apu&show_icons=true&locale=en" alt="abdur-rahman-apu" /></p>
