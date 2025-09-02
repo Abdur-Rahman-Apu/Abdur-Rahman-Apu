@@ -108,11 +108,11 @@ const mernDeveloper = {
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdur-Rahman-Apu&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdur-Rahman-Apu&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdur-Rahman-Apu&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdur-Rahman-Apu&theme=onedark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahman-Apu&theme=radical&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahman-Apu&theme=great-gatsby&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
@@ -146,8 +146,8 @@ const mernDeveloper = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahman-Apu&repo=Bobbili-urban-development-authority&theme=radical)](https://github.com/Bobbili-urban-development-authority/fullstack-residential-plan-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahman-Apu&repo=SDS-Consultancy-Service-Exam-App-Client&theme=radical)](https://github.com/Abdur-Rahman-Apu/SDS-Consultancy-Service-Exam-App-Client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahman-Apu&repo=Bobbili-urban-development-authority&theme=great-gatsby)](https://github.com/Bobbili-urban-development-authority/fullstack-residential-plan-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahman-Apu&repo=SDS-Consultancy-Service-Exam-App-Client&theme=great-gatsby)](https://github.com/Abdur-Rahman-Apu/SDS-Consultancy-Service-Exam-App-Client)
 
 </div>
 
@@ -167,7 +167,7 @@ const mernDeveloper = {
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Abdur-Rahman-Apu&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=Abdur-Rahman-Apu&theme=great-gatsby&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
@@ -221,7 +221,7 @@ JSON         15 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=great-gatsby)
 
 </div>
 
