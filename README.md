@@ -155,6 +155,10 @@ const mernDeveloper = {
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdur-Rahman-Apu&theme=react-dark&hide_border=true&area=true)
 
+<!-- With timezone -->
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdur-Rahman-Apu&theme=dark&hide_border=true)
+
 ---
 
 ## 🐍 Contribution Snake
@@ -203,6 +207,24 @@ JSON         15 mins         ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
+
+<div align="center" id="contribution-chart">
+  <h3>📊 Interactive Contribution Graph</h3>
+  <img src="https://ghchart.rshah.org/409ba5/Abdur-Rahman-Apu"
+       alt="GitHub Contribution Chart"
+       title="Interactive Contribution Chart - Hover to see commit details!"
+       style="cursor: pointer; max-width: 100%; border-radius: 8px; transition: transform 0.2s;"
+       onmouseover="this.style.transform='scale(1.02)'"
+       onmouseout="this.style.transform='scale(1)'" />
+
+  <p><strong>🎯 Features:</strong></p>
+  <ul style="text-align: left; display: inline-block;">
+    <li>✅ Hover to see daily commit counts</li>
+    <li>✅ Click squares for detailed info</li>
+    <li>✅ Includes private repository commits</li>
+    <li>✅ Updates automatically</li>
+  </ul>
+</div>
 
 ## 🎯 Learning Path & Goals 2025
 
