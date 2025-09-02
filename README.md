@@ -1,5 +1,3 @@
-# Hi there! 👋 I'm Abdur Rahman Apu
-
 <div align="center">
 <img src="./banner.png" alt="banner">
 </div>
@@ -112,7 +110,7 @@ const mernDeveloper = {
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdur-Rahman-Apu&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdur-Rahman-Apu&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdur-Rahman-Apu&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahman-Apu&theme=radical&hide_border=true&layout=compact&langs_count=8)
 
