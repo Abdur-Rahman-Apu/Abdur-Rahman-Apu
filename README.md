@@ -167,7 +167,7 @@ const mernDeveloper = {
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Abdur-Rahman-Apu&theme=great-gatsby&no-frame=true&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=Abdur-Rahman-Apu&theme=merko&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
@@ -221,7 +221,7 @@ JSON         15 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=great-gatsby)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 </div>
 
