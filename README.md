@@ -1,30 +1,262 @@
-![Banner](banner.jpg)
+# Hi there! 👋 I'm Abdur Rahman Apu
 
-<h1 align="center">Hi 👋, I'm Abdur Rahman Apu</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<div align="center">
+<img src="./banner.png" alt="banner">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdur-rahman-apu&label=Profile%20views&color=0e75b6&style=flat" alt="abdur-rahman-apu" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdur-rahman-apu" alt="abdur-rahman-apu" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Full+Stack+JavaScript+Developer;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **NEST JS, MERN**
+</div>
 
-- 📫 How to reach me **abdur15-13025@diu.edu.bd or abdurrahmany418@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+```javascript
+const mernDeveloper = {
+  name: "Your Name",
+  role: "MERN Stack Developer",
+  location: "Your Location",
+  experience: "X+ years",
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdur-rahman-apu&show_icons=true&locale=en&layout=compact" alt="abdur-rahman-apu" /></p>
+  techStack: {
+    database: ["MongoDB"],
+    backend: ["Express.js", "Node.js"],
+    frontend: ["React.js"],
+    runtime: ["Node.js"],
+  },
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahman-Apu&langs_count=8&theme=default" alt=Abdur-Rahman-Apu />
+  expertise: [
+    "Building RESTful APIs",
+    "Single Page Applications (SPA)",
+    "Database Design & Optimization",
+    "Authentication & Authorization",
+    "State Management (Redux/Context API)",
+    "Responsive Web Design",
+  ],
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdur-Rahman-Apu&show_icons=true&locale=en&theme=" alt="Abdur-Rahman-Apu" /></p>
+  currentFocus: "Building scalable full-stack web applications",
+  funFact: "I can build a full-stack app faster than you can say MERN! 🚀",
+};
+```
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdur-Rahman-Apu&theme=" alt="Abdur-Rahman-Apu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdur-rahman-apu&show_icons=true&locale=en" alt="abdur-rahman-apu" /></p>
+## 💻 MERN Stack Badges
+
+<div align="center">
+
+### 🍃 **M** - MongoDB
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### ⚡ **E** - Express.js
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### ⚛️ **R** - React.js
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+
+### 🟢 **N** - Node.js
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+
+</div>
+
+---
+
+## 🛠️ Additional Technologies & Tools
+
+<div align="center">
+
+### Frontend Styling
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+### Development Tools
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Deployment & Hosting
+
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdur-Rahman-Apu&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdur-Rahman-Apu&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahman-Apu&theme=radical&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## 🏗️ MERN Project Architecture
+
+```
+📦 MERN Application
+├── 📁 client (React Frontend)
+│   ├── 📁 public
+│   ├── 📁 src
+│   │   ├── 📁 components
+│   │   ├── 📁 pages
+│   │   ├── 📁 hooks
+│   │   ├── 📁 context
+│   │   └── 📁 utils
+│   └── 📄 package.json
+├── 📁 server (Node.js + Express Backend)
+│   ├── 📁 models (MongoDB Schemas)
+│   ├── 📁 routes (API Endpoints)
+│   ├── 📁 middleware
+│   ├── 📁 controllers
+│   └── 📄 server.js
+└── 📄 README.md
+```
+
+---
+
+## 🎯 MERN Stack Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahman-Apu&repo=Bobbili-urban-development-authority&theme=radical)](https://github.com/Bobbili-urban-development-authority/fullstack-residential-plan-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdur-Rahman-Apu&repo=SDS-Consultancy-Service-Exam-App-Client&theme=radical)](https://github.com/Abdur-Rahman-Apu/SDS-Consultancy-Service-Exam-App-Client)
+
+</div>
+
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdur-Rahman-Apu&theme=react-dark&hide_border=true&area=true)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Abdur-Rahman-Apu/Abdur-Rahman-Apu/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Abdur-Rahman-Apu&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
+## 💡 MERN Development Skills
+
+<div align="center">
+
+|   **Frontend (React)**    | **Backend (Node + Express)** |  **Database (MongoDB)**  |
+| :-----------------------: | :--------------------------: | :----------------------: |
+| ⚛️ Component Architecture |    🔧 RESTful API Design     |     🍃 Schema Design     |
+|    🎨 State Management    |   🔐 Authentication & JWT    |  📊 Query Optimization   |
+|      🎯 React Hooks       |     🛡️ Input Validation      |  🔄 Data Relationships   |
+|      🌐 React Router      |      📝 Error Handling       | 📈 Aggregation Pipelines |
+|   📱 Responsive Design    |  🚀 Middleware Integration   |   💾 Database Indexing   |
+
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   15 hrs 30 mins  ████████████████████░   78.5%
+CSS          2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░   14.2%
+HTML         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░    6.1%
+JSON         15 mins         ░░░░░░░░░░░░░░░░░░░░░░    1.2%
+```
+
+<!--END_SECTION:waka-->
+
+---
+
+## 🎯 Learning Path & Goals 2025
+
+- [x] ✅ Master React.js fundamentals
+- [x] ✅ Build REST APIs with Express.js
+- [x] ✅ Learn MongoDB & Mongoose
+- [ ] 🔄 Implement GraphQL with MERN
+- [ ] 📱 Learn React Native for mobile apps
+- [ ] ☁️ Deploy MERN apps on AWS
+- [ ] 🧪 Master Testing (Jest, Cypress)
+- [ ] 🔧 Learn TypeScript with MERN
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdur-rahman-apu)
+[![Discord](https://img.shields.io/badge/Discord-%231DA1F2.svg?logo=Discord&logoColor=white)](https://discord.com/abdurrahman1999)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=todoist&logoColor=white)](https://abdur-rahman-apu-portfolio.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abdurrahmany418@gmail.com)
+
+</div>
+
+---
+
+## 📊 Profile Views
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=Abdur-Rahman-Apu&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/Abdur-Rahman-Apu?label=Followers&style=social)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Show some love by starring my repositories! ⭐
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
