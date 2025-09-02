@@ -209,26 +209,6 @@ JSON         15 mins         ░░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  <h3>📊 Interactive Contribution Graph</h3>
-  <img src="https://ghchart.rshah.org/61dafb/Abdur-Rahman-Apu"
-       alt="GitHub Contribution Chart"
-       title="GitHub Contribution Heatmap"
-       style="max-width: 100%; border-radius: 8px;" />
-
-  <div style="margin-top: 15px;">
-    <strong>🎯 Features:</strong>
-    <div style="text-align: center; margin-top: 10px;">
-      ✅ Shows daily activity patterns<br>
-      ✅ Includes private repository commits<br>
-      ✅ Updates automatically<br>
-      ✅ Beautiful visual representation
-    </div>
-  </div>
-</div>
-
----
-
-<div align="center">
 
 ## 🎯 Learning Path & Goals 2025
 
