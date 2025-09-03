@@ -14,10 +14,10 @@
 
 ```javascript
 const mernDeveloper = {
-  name: "Your Name",
+  name: "Abdur Rahman Apu",
   role: "MERN Stack Developer",
-  location: "Your Location",
-  experience: "X+ years",
+  location: "Shonir Akhra, Dhaka, Bangladesh",
+  experience: "2 years",
 
   techStack: {
     database: ["MongoDB"],
@@ -157,7 +157,11 @@ const mernDeveloper = {
 
 <!-- With timezone -->
 
+<div align="center">
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdur-Rahman-Apu&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -212,14 +216,14 @@ JSON         15 mins         ░░░░░░░░░░░░░░░░░
 
 ## 🎯 Learning Path & Goals 2025
 
-- [x] ✅ Master React.js fundamentals
-- [x] ✅ Build REST APIs with Express.js
-- [x] ✅ Learn MongoDB & Mongoose
-- [ ] 🔄 Implement GraphQL with MERN
-- [ ] 📱 Learn React Native for mobile apps
-- [ ] ☁️ Deploy MERN apps on AWS
-- [ ] 🧪 Master Testing (Jest, Cypress)
-- [ ] 🔧 Learn TypeScript with MERN
+- ✅ Master React.js fundamentals
+- ✅ Build REST APIs with Express.js
+- ✅ Learn MongoDB & Mongoose
+- 🔄 Implement GraphQL with MERN
+- 📱 Learn React Native for mobile apps
+- ☁️ Deploy MERN apps on AWS
+- 🧪 Master Testing (Jest, Cypress)
+- 🔧 Learn TypeScript with MERN
 
 ---
 
